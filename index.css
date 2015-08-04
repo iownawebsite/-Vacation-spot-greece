@@ -1,0 +1,10 @@
+nav ul li{
+			list-style: none;
+			display: inline-block;
+			float: top; 
+}
+nav{
+			border-width: 100%;
+			background-color: blue;
+}
+ 
